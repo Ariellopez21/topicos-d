@@ -7,3 +7,9 @@ CLAUDE.md
 4_executed.ipynb
 5_executed.ipynb
 PresentaciónML-240326.pdf
+
+# CSV
+dataset/*.csv
+
+# Comprimido
+dataset/*.gz
