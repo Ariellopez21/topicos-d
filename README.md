@@ -18,7 +18,11 @@ Link de descarga del dataset para tarea_2_ciclo_completo_proyecto_ML:
 
 ## Tarea 3
 
-Se preguntará por los 4 algoritmos de relevancia.
+Se preguntará por los 4 algoritmos de relevancia. 
+- Para el notebook 11 se usa el link https://www.unb.ca/cic/datasets/url-2016.html y el archivo `Phishing.csv`.
+- Para el notebook 12 se usa el link https://www.unb.ca/cic/datasets/android-adware.html y el archivo `TotalFeatures-ISCXFlowMeter.csv` que está dentro de `AndroidAdware2017.zip`.
+- Para el notebook 13 se usa el mismo archivo que el notebook 12.
+- Para el notebook 17 se usa el link https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download y el archivo que se descomprime tiene el archivo que se usa con nombre `creditcard.csv`.
 
 ## Proyecto final integrador 
 
