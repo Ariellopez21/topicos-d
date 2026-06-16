@@ -11,3 +11,10 @@ PresentaciónML-240326.pdf
 # Datasets: dir, .zip, .gz
 # Ignorar todo dentro de dataset
 dataset/**
+
+
+android_malware*
+contexto.md
+cuestion*
+mi_part*
+Cuestionario*
