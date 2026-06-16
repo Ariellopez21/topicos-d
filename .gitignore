@@ -11,7 +11,7 @@ PresentaciónML-240326.pdf
 # Datasets: dir, .zip, .gz
 # Ignorar todo dentro de dataset
 dataset/**
-
+.csv
 
 android_malware*
 contexto.md

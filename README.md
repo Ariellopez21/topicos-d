@@ -24,6 +24,19 @@ Se preguntará por los 4 algoritmos de relevancia.
 - Para el notebook 13 se usa el mismo archivo que el notebook 12.
 - Para el notebook 17 se usa el link https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download y el archivo que se descomprime tiene el archivo que se usa con nombre `creditcard.csv`.
 
+## Proyecto final
+
+Link de descarga del dataset para tarea_4:
+- `bank-additional-full.csv` (dentro de `bank-additional/` al descomprimir)
+
+[https://archive.ics.uci.edu/dataset/222/bank+marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+
+Alternativa en Kaggle:
+[https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing)
+
+Copiar `bank-additional-full.csv` dentro de `tarea_4/`.
+
+
 ## Proyecto final integrador 
 
 Requiere:
