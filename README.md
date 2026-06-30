@@ -24,7 +24,7 @@ Se preguntará por los 4 algoritmos de relevancia.
 - Para el notebook 13 se usa el mismo archivo que el notebook 12.
 - Para el notebook 17 se usa el link https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download y el archivo que se descomprime tiene el archivo que se usa con nombre `creditcard.csv`.
 
-## Proyecto final
+## Tarea 4 (Proyecto final)
 
 Link de descarga del dataset para tarea_4:
 - `bank-additional-full.csv` (dentro de `bank-additional/` al descomprimir)
@@ -37,7 +37,7 @@ Alternativa en Kaggle:
 Copiar `bank-additional-full.csv` dentro de `tarea_4/`.
 
 
-## Proyecto final integrador 
+### Proyecto final integrador 
 
 Requiere:
 - Problema  
@@ -49,5 +49,5 @@ Requiere:
 ## Fechas de entrega importantes
 
 - Lunes 8 junio: Entrega y muestra de tarea_3 como presentación.  
-- Martes 30 de junio: Prueba teoría ML. (dentro del directorio `prueba`).  
+- Viernes 03 de julio: Prueba teoría ML. (dentro del directorio `prueba`).  
 - Lunes 06 y Martes 07 de julio: Presentaciones proyectos.  
